@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hellow Rasmeet!"
+echo "Helloworld!"
